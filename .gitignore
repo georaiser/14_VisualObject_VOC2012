@@ -1,0 +1,4 @@
+checkpoints/model_epoch*.pth
+checkpoints
+VOC2012
+*.mp4
