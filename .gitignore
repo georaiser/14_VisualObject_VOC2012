@@ -1,4 +1,7 @@
-checkpoints/model_epoch*.pth
 checkpoints
+respaldo
 VOC2012
+model
+.ipynb_checkpoints
 *.mp4
+*.pth
